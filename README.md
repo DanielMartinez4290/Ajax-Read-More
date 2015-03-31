@@ -1,2 +1,2 @@
 # Ajax-Read-More
-Makes the Read More Link show the second part of the text without a page refresh.
+Makes the Read More Link show the second part of a post without a page refresh.
